@@ -1,5 +1,5 @@
 
-# What is Flutter
+# Introduction to Flutter
 * **An SDK** that makes building high-performance, modern, and beatiful apps easy
 * Work natively for both Andorid and iOS - not a wrapper
 * Uses the **Dart** programming language

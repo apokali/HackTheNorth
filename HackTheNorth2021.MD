@@ -75,5 +75,18 @@ $ docker run -p 3000:3000 node-exampe latest
 $ node .
 ```
 
+### Note
+Bedore you head to the next run, you should fisrt kill the running project
+* steps
+```bash
+# find the container ID
+$ docker ps
+CONTAINER ID   IMAGE                 COMMAND                  CREATED         STATUS         PORTS     NAMES
+4038a055a929   node-example:latest   "docker-entrypoint.s…"   2 minutes ago   Up 2 minutes             magical_zhukovsky
+
+# then kill the container
+$ docker kill 4038a055a929
+```
+
 # References
 https://www.youtube.com/watch?v=rgfezE92mog&feature=youtu.be

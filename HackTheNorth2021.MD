@@ -1,4 +1,4 @@
-# Introduction
+# Introduction to Flutter
 
 This is a note for the first workshop in 2021 Hack the North.
 
@@ -28,6 +28,12 @@ void main() {
     
 ```
 
+
+# Introduction to Docker
+* Docker is a tool that makes it really easy to package applications into self-sustaining 'cotainers'
+
+### Container
+Containers contain libraries, dependencies and source codes.
 
 
 

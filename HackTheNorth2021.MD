@@ -1,6 +1,3 @@
-# Introduction to Flutter
-
-This is a note for the first workshop in 2021 Hack the North.
 
 # What is Flutter
 * **An SDK** that makes building high-performance, modern, and beatiful apps easy
@@ -20,7 +17,7 @@ Reference https://flutter.dev/?gclid=Cj0KCQiA9P__BRC0ARIsAEZ6irj1tGvjNM5CfJ4TMgt
 ### Not A Fit for Rapid Prototyping
 games, calling native APIs directly, audio support, new.different third-party libraries, watches, TVs, Cars
 
-# Examples
+### Examples
 ```dart
 void main() {
     runApp(

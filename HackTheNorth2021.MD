@@ -32,8 +32,22 @@ void main() {
 ### Container
 Containers contain libraries, dependencies and source codes.
 
+### Advtanges
+* Easily get the benefits of containers
+* Programmatically define containers
+
+### Docker Containers
+A Docker containers is a fully self-contained and running version of your application
 
 
+### Docker Images
+Images are tmeplates that describe to Docker how to create a container from scratch.
+
+### Docker Layers
+Layers are resuable components that can be shared accross images
+
+### Dockerfile
+The dockerfile is the actual instruction manual that sell Docker how to build your image. This is the only part you as a user write
 
 # References
 https://www.youtube.com/watch?v=rgfezE92mog&feature=youtu.be

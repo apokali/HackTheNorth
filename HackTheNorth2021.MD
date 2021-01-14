@@ -49,10 +49,27 @@ Layers are resuable components that can be shared accross images
 ### Dockerfile
 The dockerfile is the actual instruction manual that sell Docker how to build your image. This is the only part you as a user write
 
+### Docker CLI
+```bash
+$ docker run hello-world
+```
+
 ### Docker image ls
 ```bash
 # get a list of all images you have in your computer
 $ docker image ls
+```
+
+### docker build 
+```bash
+# turn a Dockerfile into an actual image
+$ docker build . -t node-example:latest
+```
+
+### docker run
+```bash
+# create a container from an image
+$ docker run -p 3000:3000 node-exampe latest
 ```
 
 # References

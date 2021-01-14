@@ -72,7 +72,7 @@ $ docker image ls
 $ docker run -p 3000:3000 node-exampe latest
 
 # Then run node in the curent directory
-$ 
+$ node .
 ```
 
 # References

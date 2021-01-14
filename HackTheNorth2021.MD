@@ -54,22 +54,25 @@ The dockerfile is the actual instruction manual that sell Docker how to build yo
 $ docker run hello-world
 ```
 
-### Docker image ls
-```bash
-# get a list of all images you have in your computer
-$ docker image ls
-```
-
 ### docker build 
 ```bash
 # turn a Dockerfile into an actual image
 $ docker build . -t node-example:latest
 ```
 
+### Docker image ls
+```bash
+# get a list of all images you have in your computer
+$ docker image ls
+```
+
 ### docker run
 ```bash
 # create a container from an image
 $ docker run -p 3000:3000 node-exampe latest
+
+# Then run node in the curent directory
+$ 
 ```
 
 # References

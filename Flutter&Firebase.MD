@@ -17,6 +17,20 @@ Reference https://flutter.dev/?gclid=Cj0KCQiA9P__BRC0ARIsAEZ6irj1tGvjNM5CfJ4TMgt
 * Build once and deploy to multiple platforms
 * **Hot Reload** when designing
 
-# References
+### Not A Fit for Rapid Prototyping
+games, calling native APIs directly, audio support, new.different third-party libraries, watches, TVs, Cars
 
+# Examples
+```dart
+void main() {
+    runApp(
+        Center(
+    
+```
+
+
+
+
+
+# References
 https://www.youtube.com/watch?v=rgfezE92mog&feature=youtu.be

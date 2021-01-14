@@ -69,7 +69,7 @@ $ docker image ls
 ### docker run
 ```bash
 # create a container from an image
-$ docker run -p 3000:3000 node-exampe latest
+$ docker run -p 3000:3000 node-exampe:latest
 
 # Then run node in the curent directory
 $ node .

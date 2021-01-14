@@ -88,5 +88,18 @@ CONTAINER ID   IMAGE                 COMMAND                  CREATED         ST
 $ docker kill 4038a055a929
 ```
 
+
+### docker exec
+```bash
+# how to run a command inside a container
+$ docker exec -it 4038a055a929 echo "Hello Hack the north 2020++"
+
+# list of current runnning
+$ dcker exrc -it 4038a055a929 ps aux 
+
+# intereact with shell
+$ docker exec -it 4038a055a929 /bin/sh
+```
+
 # References
 https://www.youtube.com/watch?v=rgfezE92mog&feature=youtu.be

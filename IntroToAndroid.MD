@@ -30,6 +30,16 @@ Comparison to REST
 * Queries, Mutations, and everthing in between with
 * Define types for an API, and all the possible things you can do with it
 
+### Querries vs Mutations
+* Equivalent of REST request types
+* Query = GET request
+* Mutation = POST request
+
+### Server Specification
+* A specification made by the GQL consortium ot serve up GraphQL APIs
+* What you implement to make a GraphQL API
+* Defines how GraphQL is parsed & querries resolved
+
 
 # References
 https://www.youtube.com/watch?v=_Lfk55pJpf8&feature=youtu.be

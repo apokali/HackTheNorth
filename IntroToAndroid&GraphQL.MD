@@ -41,5 +41,9 @@ Comparison to REST
 * Defines how GraphQL is parsed & querries resolved
 
 
+### Remark
+An useful online tool https://g.rishi.cx
+
+
 # References
 https://www.youtube.com/watch?v=_Lfk55pJpf8&feature=youtu.be

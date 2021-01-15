@@ -14,13 +14,13 @@
 * Have type-safe guranatees for your data
 * High-level constructs
 
-### Comparison to REST
-REST
+Comparison to REST
+### REST
 * Individually fetch endpoints
 * Client-side validation (no banada checking)
 * Lots of useless runs
 
-GraphQL
+### GraphQL
 * Round-trip fetching
 * On-the-fly type validation 
 * Less overall trips, less room to go wrong

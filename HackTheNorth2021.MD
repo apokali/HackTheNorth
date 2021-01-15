@@ -101,5 +101,9 @@ $ dcker exrc -it 4038a055a929 ps aux
 $ docker exec -it 4038a055a929 /bin/sh
 ```
 
+
+### Deploying on GCR (Google Cloud Run)
+Docker makese it dead easy to deploy on pretty much any cloud platform on the internet. 
+
 # References
 https://www.youtube.com/watch?v=rgfezE92mog&feature=youtu.be
